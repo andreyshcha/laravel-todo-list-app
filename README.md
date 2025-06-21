@@ -3,21 +3,19 @@
 <img width="1434" alt="taskcatalyst" src="https://user-images.githubusercontent.com/62199230/114421215-5c9b4e80-9bb5-11eb-9e82-a75b289375e7.png">
 
 
-## About Task Catalyst (this Laravel todo list app)
+## О Task Catalyst (это приложение для составления списка дел в Laravel)
 
-Task Catalyst is a todo list web application created in Laravel 8 to help people prioritize their tasks and check off tasks as they complete them. 
+Task Catalyst - это веб-приложение для составления списка дел, созданное в Laravel 8, чтобы помочь людям расставлять приоритеты в своих задачах и проверять их выполнение по мере их выполнения. 
 
-## Features Implemented
+## Реализованы функции
 
-* Standard users can register/login
-* Both admin and standard users can create, view, edit, delete tasks
-* Both admin and standard users can mark tasks as completed 
-* Admin user can view all the users
-* Admin user can change/assign roles to users
-* Admin user can delete users 
-* Both standard and admin users can update their account information
-* Both standard and admin users can change their password 
+* Обычные пользователи могут регистрироваться / входить в систему
+* * Администратор бота и обычные пользователи могут создавать, просматривать, редактировать и удалять задачи
+* Как администратор, так и обычные пользователи могут отмечать задачи как выполненные 
+* Пользователь-администратор может просматривать всех пользователей
+* Пользователь-администратор может изменять / назначать роли пользователям
+* Пользователь-администратор может удалять пользователей 
+* Как обычные пользователи, так и пользователи с правами администратора могут обновлять информацию о своей учетной записи
+* Как обычные пользователи, так и пользователи с правами администратора могут изменить свой пароль 
 
-## Cool Features to Add
 
-* Sending notifications/reminders about the due tasks
